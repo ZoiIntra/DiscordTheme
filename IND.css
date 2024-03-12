@@ -19,7 +19,7 @@
   /*
    * SoftX variables
    */
-  --background-image: url("https://raw.githubusercontent.com/x2-Neptune/Image/main/NreptuneOver_Wallpaper.png"); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url("https://raw.githubusercontent.com/x2-Neptune/Image/main/Background.png"); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-blur: 0px; /* Blur intensity of --background-image | Must end in px | Default: 0px */
   --accent: 0, 231, 169; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
   --channels-width: 300px; /* Width of the channels list. | Default: 300px */
@@ -42,7 +42,7 @@
   --rs-medium-width: 2px; /* Default: 2px */
   --rs-large-width: 2px; /* Default: 2px */
   /* Customizable colors */
-  --rs-online-color: #00b7ff; /* Default: #43b581 */
+  --rs-online-color: #43b581; /* Default: #43b581 */
   --rs-idle-color: #faa61a; /* Default: #faa61a */
   --rs-dnd-color: #f04747; /* Default: #f04747 */
   --rs-offline-color: #636b75; /* Default: #636b75 */
